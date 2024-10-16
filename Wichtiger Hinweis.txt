@@ -1,0 +1,3 @@
+Bitte die Ordnerstruktur und die Ordnernamen nicht ändern, 
+da sonst die Links zu den Daten nicht mehr funktionieren. 
+Den Root-Ordner (Kursmaterial_DAPyt) können Sie hingegen umbenennen.
